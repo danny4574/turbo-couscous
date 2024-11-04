@@ -51,7 +51,7 @@ article h3{
 
     100%{
         background-size: 100%;
-    }
+    }   
 }
 @-webkit-keyframes slideright{
     0%{left:0px}
